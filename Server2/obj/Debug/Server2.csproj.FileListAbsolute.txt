@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\bin\Debug\Server2.exe.config
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\bin\Debug\Server2.exe
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\bin\Debug\Server2.pdb
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\bin\Debug\MyClient.dll
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\bin\Debug\MyClient.pdb
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\obj\Debug\Server2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\obj\Debug\Server2.frmServer2.resources
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\obj\Debug\Server2.Properties.Resources.resources
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\obj\Debug\Server2.csproj.GenerateResource.Cache
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\obj\Debug\Server2.exe
+C:\Users\DELL\source\repos\ClientSeverSocket\Server2\obj\Debug\Server2.pdb

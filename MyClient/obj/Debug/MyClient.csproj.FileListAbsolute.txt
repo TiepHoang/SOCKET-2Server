@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\ClientSeverSocket\MyClient\bin\Debug\MyClient.dll
+C:\Users\DELL\source\repos\ClientSeverSocket\MyClient\bin\Debug\MyClient.pdb
+C:\Users\DELL\source\repos\ClientSeverSocket\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ClientSeverSocket\MyClient\obj\Debug\MyClient.dll
+C:\Users\DELL\source\repos\ClientSeverSocket\MyClient\obj\Debug\MyClient.pdb
